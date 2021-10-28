@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital@1&family==Libre+Baskerville&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:ital@1&display=swap');
+
+.Header{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    height: 100vh;
+    background: url(../img/headerbg.gif) center center;
+    background-size: cover;
+    justify-content: center;
+
+}
+.Container {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Welcome {
+    color: #eee;
+    font-size: 40px;
+    z-index: 10;
+    position: relative;
+    font-family: 'Noto Serif Display', serif;
+}
+.Message {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #eee;
+    font-family: 'Libre Baskerville', serif;
+    hr {
+        width: 320px;
+        margin: 20px 0;
+        height: 2px;
+        border: none;
+        background: #eee;
+    }
+    p {
+        background: transparent;
+        font-size: 30px;
+        padding: 0;
+        margin: 0;
+    }
+}

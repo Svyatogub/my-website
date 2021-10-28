@@ -1,0 +1,45 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.Goals {
+    width: 100%;
+    margin-top: 50px;
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    background: #ccc url(../img/goals3.png) center center;
+    background-size: cover;
+    justify-content: center;
+    margin-top: -2.6px;
+}
+.Container {
+    max-width: 800px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-evenly;
+    flex-direction: column;
+    width: 100%;
+    color: #051120;
+    font-size: 22px;
+    flex-direction: column;
+    display: flex;
+    flex: 1;
+    h3{
+        font-size: 30px;
+        margin: 10px 0;
+        padding: 10px;
+        margin-bottom: -160px;
+    }
+    p {
+        font-size: 25px;
+    }
+    hr{
+        width: 50%;
+        border: none;
+        height: 2px;
+        background: #051120;
+        margin-bottom: -150px;
+        margin-left: 25%;
+    }
+}

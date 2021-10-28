@@ -1,0 +1,40 @@
+.Content {
+    display: flex;
+    color: #ddd;
+    justify-content: center;
+}
+.Container {
+    max-width: 800px;
+    display: flex;
+    padding: 20px;
+    justify-content: space-between;
+    width: 100%;
+    color: #051120;
+    font-size: 22px;
+}
+.Horizontal {
+    margin-top: 5%;
+    flex-direction: row;
+    display: flex;
+}
+.Vertical {
+    flex-direction: column;
+    display: flex;
+    flex: 1;
+    h3 {
+        margin-left: 23%;
+    }
+    hr {
+        width: 80%;
+        border: none;
+        height: 2px;
+        background: #051120;
+        margin: 0 0 10px 0;
+    }
+}
+.VertPic{
+    img {
+        width: 400px;
+        height: 350px;
+    }
+}

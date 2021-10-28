@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/my-website/static/css/main.13ff0796.chunk.css",
+    "main.js": "/my-website/static/js/main.6a38bedc.chunk.js",
+    "main.js.map": "/my-website/static/js/main.6a38bedc.chunk.js.map",
+    "runtime-main.js": "/my-website/static/js/runtime-main.8ac82931.js",
+    "runtime-main.js.map": "/my-website/static/js/runtime-main.8ac82931.js.map",
+    "static/js/2.cdd708b2.chunk.js": "/my-website/static/js/2.cdd708b2.chunk.js",
+    "static/js/2.cdd708b2.chunk.js.map": "/my-website/static/js/2.cdd708b2.chunk.js.map",
+    "index.html": "/my-website/index.html",
+    "static/css/main.13ff0796.chunk.css.map": "/my-website/static/css/main.13ff0796.chunk.css.map",
+    "static/js/2.cdd708b2.chunk.js.LICENSE.txt": "/my-website/static/js/2.cdd708b2.chunk.js.LICENSE.txt",
+    "static/media/aboutme2.df3dd43e.jpg": "/my-website/static/media/aboutme2.df3dd43e.jpg",
+    "static/media/github-brands.e2f07326.svg": "/my-website/static/media/github-brands.e2f07326.svg",
+    "static/media/Goals.module.scss": "/my-website/static/media/goals3.d6091f4b.png",
+    "static/media/Header.module.scss": "/my-website/static/media/headerbg.e8e6b834.gif",
+    "static/media/instagram-brands.90a80cd5.svg": "/my-website/static/media/instagram-brands.90a80cd5.svg",
+    "static/media/linkedin-in-brands.8fb0cfb6.svg": "/my-website/static/media/linkedin-in-brands.8fb0cfb6.svg",
+    "static/media/Skills.module.scss": "/my-website/static/media/skills4.ad11b550.jpg",
+    "static/media/telegram-plane-brands.2685abfd.svg": "/my-website/static/media/telegram-plane-brands.2685abfd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac82931.js",
+    "static/js/2.cdd708b2.chunk.js",
+    "static/css/main.13ff0796.chunk.css",
+    "static/js/main.6a38bedc.chunk.js"
+  ]
+}
